@@ -32,6 +32,7 @@ input, select, textarea {
 .toppings>input {
 	margin-left: .8rem;
 	margin-right: .3rem;
+	width: 1rem;
 
 }
 
